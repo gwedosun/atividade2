@@ -14,7 +14,6 @@ public class Revista extends Material {
         this.edicao = edicao;
     }
 
-
     @Override
     public void descricao() {
         System.out.println("Livro: " + getTitulo());
